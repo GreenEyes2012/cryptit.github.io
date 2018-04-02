@@ -9,9 +9,11 @@
     "jshint": "^2.6.0",
     "electron": "^1.8.4"
   },
-    "repository": "https://github.com/cryptIt/cryptit.github.io",
+  "repository": "https://github.com/cryptIt/cryptit.github.io",
   "scripts": {
     "test": "jshint hello.js",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder",
     "start": "electron ."
   }
 }
