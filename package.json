@@ -12,7 +12,7 @@
   "repository": "https://github.com/cryptIt/cryptit.github.io",
   "scripts": {
     "test": "jshint hello.js",
-    "postinstall": "electron-builder install-app-deps",
+    "postinstall": "electron-builder",
     "pack": "electron-builder --dir",
     "dist": "electron-builder",
     "start": "electron ."
