@@ -1,13 +1,15 @@
 {
-  "name": "CryptIt-travis",
+  "name": "CryptIt-Electron-TravisCI",
   "description": "Simple Travis-CI check for JSHint (Code Linting)",
   "author": "roy hodge",
+  "license": "CC0-1.0",
   "version": "0.0.1",
   "main": "main.js",
   "devDependencies": {
     "jshint": "^2.6.0",
     "electron": "^1.8.4"
   },
+    "repository": "https://github.com/cryptIt/cryptit.github.io",
   "scripts": {
     "test": "jshint hello.js",
     "start": "electron ."
