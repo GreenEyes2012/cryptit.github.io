@@ -3,10 +3,13 @@
   "description": "Simple Travis-CI check for JSHint (Code Linting)",
   "author": "roy hodge",
   "version": "0.0.1",
+  "main": "main.js",
   "devDependencies": {
-    "jshint": "^2.6.0"
+    "jshint": "^2.6.0",
+    "electron": "^1.8.4"
   },
   "scripts": {
-    "test": "jshint hello.js"
+    "test": "jshint hello.js",
+    "start": "electron ."
   }
 }
