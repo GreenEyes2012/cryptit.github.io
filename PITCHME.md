@@ -5,8 +5,7 @@
 ---
 
 ## Ciphers
-
-@fa[key](Stay safe!)
+@fa[key]
 
 <table>
   <tr>
