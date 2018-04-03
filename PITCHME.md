@@ -1,33 +1,36 @@
 # Crypt-It
 @fa[lock fa-5x]
-### witty catchphrase/tagline
+### Secure encryption online or offline from any device.
 
-Secure encryption online or offline from any device.
 ---
 
-## Tips!
+## Ciphers
 
 
 <table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th>AES</th>
+    <th>DES</th> 
+    <th>Triple-DES</th>
+    <th>Rabbit</th>
   </tr>
   <tr>
     <td>Jill</td>
     <td>Smith</td>
     <td>50</td>
+    <td>stream cipher</td>
   </tr>
   <tr class="fragment">
     <td>Eve</td>
     <td>Jackson</td>
     <td>94</td>
+    <td>ddd</td>
   </tr>
   <tr class="fragment">
     <td>John</td>
     <td>Doe</td>
     <td>80</td>
+    <td>ffe</td>
   </tr>
 </table>
 <br>
