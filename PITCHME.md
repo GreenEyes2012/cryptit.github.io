@@ -35,10 +35,6 @@
 </table>
 <br>
 
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
-
 ---
 
 ---?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
