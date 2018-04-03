@@ -5,7 +5,7 @@
 ---
 
 ## Ciphers
-@fa[key]
+@fa[key fa-3x]
 
 <table>
   <tr>
