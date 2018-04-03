@@ -1,6 +1,6 @@
 # cryptit.github.io
 
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=social)](https://github.com/cryptIt/cryptit.github.io/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/cryptIt/cryptit.github.io/total.svg?style=social)](https://github.com/cryptIt/cryptit.github.io/releases)
 
 ![alt text](https://github.com/cryptIt/cryptit.github.io/blob/master/logo.png?raw=true "Logo")
 
