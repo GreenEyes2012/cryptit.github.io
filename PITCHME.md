@@ -1,6 +1,6 @@
 # CryptIt
-## A Privacy Advocate Product
 @fa[lock fa-5x]
+## A Privacy Advocate Product
 
 Secure encryption online or offline from any device.
 
