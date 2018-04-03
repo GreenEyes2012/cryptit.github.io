@@ -4,33 +4,27 @@
 
 ---
 
-## Ciphers
+## CryptoJS Based App
 @fa[key fa-3x]
 
 <table>
   <tr>
-    <th>Keccak</th>
+    <th>SHA-256</th>
     <th>SHA-1</th> 
     <th>AES</th>
     <th>Rabbit</th>
   </tr>
   <tr>
-    <td>SHA-256</td>
+    <td>SHA-512</td>
     <td>DES</td>
     <td>PBKDF2</td>
     <td>RC4</td>
   </tr>
   <tr class="fragment">
-    <td>SHA-512</td>
+    <td>SHA-3</td>
     <td>Triple DES</td>
     <td>94</td>
     <td>RC4Drop</td>
-  </tr>
-  <tr class="fragment">
-    <td>SHA-3</td>
-    <td>MD5</td>
-    <td>80</td>
-    <td>RIPEMD-160</td>
   </tr>
 </table>
 <br>
@@ -43,24 +37,16 @@
 
 ## Features
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
+- Mobile Ready |
+- Releases available for Windows, Linux, & MacOS |
+- Client-Side Encryption |
 - Custom Logo, TOC, and Footnotes |
-
----?code=sample/go/server.go&lang=golang&title=Golang File
-
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
 ---
 
-@title[JavaScript Block]
+@title[Code Block]
 
-<p><span class="slide-title">JavaScript Block</span></p>
+<p><span class="slide-title">Code Block</span></p>
 
 ```javascript
 // Include http module.
@@ -89,12 +75,6 @@ http.createServer(function (request, response) {
 @[9-17](Displayed using code-syntax highlighting just like your IDE.)
 @[19-20](Again, all of this without ever leaving your slideshow.)
 
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=scala&title=Scala GIST
-
-@[23](You can even present code found within any GitHub GIST.)
-@[41-53](GIST source code is beautifully rendered on any slide.)
-@[57-62](And code-presenting works seamlessly for GIST too, both online and offline.)
-
 ---
 
 ## Template Help
@@ -112,16 +92,12 @@ http.createServer(function (request, response) {
 
 <br>
 
-@fa[twitter gp-contact](@gitpitch)
-
-@fa[github gp-contact](gitpitch)
-
-@fa[medium gp-contact](@gitpitch)
+@fa[github gp-contact](cryptit)
 
 ---?image=assets/image/gitpitch-audience.jpg
 
-@title[Download this Template!]
+@title[Download Now!]
 
 ### <span class="white">Protect your data!</span>
-### [Start using @fa[external-link gp-download]](https://gitpitch.com/template/download/aqua)
+### [Start using @fa[fa-download gp-download]](https://gitpitch.com/template/download/aqua)
 
