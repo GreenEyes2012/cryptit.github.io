@@ -33,7 +33,7 @@
 
 - Mobile Ready |
 - Releases available for Windows, Linux, & MacOS |
-- Client-Side Encryption |
+- File Encryption protects you from Ransomware & prying eyes |
 - Custom Logo, TOC, and Footnotes |
 
 ---
@@ -69,7 +69,7 @@ http.createServer(function (request, response) {
 @[19-20](Again, all of this without ever leaving your slideshow.)
 
 ---
-## Template Help
+## How To Use
 
 - [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
   + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
