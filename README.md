@@ -1,4 +1,4 @@
-# cryptit.github.io
+# CryptIt . Github . io
 
 ![alt text](https://github.com/cryptIt/cryptit.github.io/blob/master/logo.png?raw=true "Logo")
 
