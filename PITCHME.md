@@ -7,6 +7,11 @@ Secure encryption online or offline from any device.
 
 ## Tips!
 
+<i class="fas fa-lock"></i>
+
+@fa[fa-lock]
+
+
 <table>
   <tr>
     <th>Firstname</th>
