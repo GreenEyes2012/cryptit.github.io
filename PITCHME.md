@@ -36,7 +36,7 @@
 ---
 
 ---?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
-
+- Slide with video as background |
 ---
 
 ## Features
