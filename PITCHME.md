@@ -68,5 +68,6 @@ var decrypted = CryptoJS.AES.decrypt(openSSLEncrypted, "Secret Passphrase");
 
 <span class="white">Protect your data!</span>
 <a href="#">
-@fa[download](https://cryptit.github.io)
+@fa[download]
+  (https://cryptit.github.io)
 </a>
