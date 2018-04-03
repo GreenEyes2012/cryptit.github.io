@@ -99,5 +99,6 @@ http.createServer(function (request, response) {
 @title[Download Now!]
 
 ### <span class="white">Protect your data!</span>
-### [Start using @fa[fa-download gp-download]](https://gitpitch.com/template/download/aqua)
+
+### [Start using @fa[fa-download]](https://cryptit.github.io)
 
