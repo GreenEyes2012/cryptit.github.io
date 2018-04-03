@@ -1,7 +1,7 @@
 # Crypt It
+## A Privacy Advocate Product
 
-### A Privacy Advocates Production
-
+Secure encryption online or offline from any device.
 ---
 
 ## Tips!
