@@ -10,4 +10,4 @@
 
 Learn about it here --> https://gitpitch.com/cryptit/cryptit.github.io/master#/
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?url=https%3A%2F%2Fgitpitch.com%2Fcryptit%2Fcryptit.github.io%2Fmaster&src=https%3A%2F%2Fgitpitch.com%2Fcryptit%2Fcryptit.github.io%2Fmaster&type=text%2Fhtml&key=internal&schema=gitpitch" width="500" height="365" scrolling="no" frameborder="0" allowfullscreen></iframe>
+
