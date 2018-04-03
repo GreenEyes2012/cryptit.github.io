@@ -1,10 +1,13 @@
 # Crypt It
-## A Privacy Advocate Product |
+## A Privacy Advocate Product
 
-Secure encryption online or offline from any device. |
+Secure encryption online or offline from any device.
 ---
 
 ## Tips!
+
+@fa-5x[thumbs-up](Sounds good to me!)
+
 <table>
   <tr>
     <th>Firstname</th>
