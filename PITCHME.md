@@ -91,5 +91,4 @@ http.createServer(function (request, response) {
 
 <span class="white">Protect your data!</span>
 
-@fa[fa-download]](https://cryptit.github.io)
-
+@fa[download](https://cryptit.github.io)
