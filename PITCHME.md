@@ -1,6 +1,6 @@
-# Aqua
+# Crypt It
 
-### A GitPitch Presentation Template
+### A Privacy Advocates Production
 
 ---
 
@@ -14,7 +14,7 @@
 
 ---
 
-## Template Features
+## Features
 
 - Code Presenting |
 - Repo Source, Static Blocks, GIST |
@@ -81,26 +81,6 @@ http.createServer(function (request, response) {
 
 ---
 
-## Go GitPitch Pro!
-
-<br>
-<div class="left">
-    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-    <a href="https://gitpitch.com/pro-features" class="pro-link">
-    More details here.</a>
-</div>
-<div class="right">
-    <ul>
-        <li>Private Repos</li>
-        <li>Private URLs</li>
-        <li>Password-Protection</li>
-        <li>Image Opacity</li>
-        <li>SVG Image Support</li>
-    </ul>
-</div>
-
----
-
 ### Questions?
 
 <br>
@@ -115,6 +95,6 @@ http.createServer(function (request, response) {
 
 @title[Download this Template!]
 
-### <span class="white">Get your presentation started!</span>
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/aqua)
+### <span class="white">Protect your data!</span>
+### [Start using @fa[external-link gp-download]](https://gitpitch.com/template/download/aqua)
 
