@@ -4,6 +4,6 @@
 
 [![CircleCI](https://circleci.com/gh/cryptIt/cryptit.github.io/tree/master.svg?style=svg)](https://circleci.com/gh/cryptIt/cryptit.github.io/tree/master)
 
-<center><a href="https://cryptit.github.io/">https://cryptit.github.io/</a></center>
+<center>Use it here: <a href="https://cryptit.github.io/">https://cryptit.github.io/</a></center>
 
 
