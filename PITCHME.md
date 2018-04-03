@@ -1,9 +1,8 @@
-# CryptIt
+# Crypt-It
 @fa[lock fa-5x]
-## A Privacy Advocate Product
+## File Encryption/Decryption Made Easy
 
 Secure encryption online or offline from any device.
-
 ---
 
 ## Tips!
