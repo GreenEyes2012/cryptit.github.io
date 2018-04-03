@@ -8,4 +8,4 @@
 
 <center>Use it here: <a href="https://cryptit.github.io/">https://cryptit.github.io/</a></center>
 
-
+Learn about it here --> https://gitpitch.com/cryptit/cryptit.github.io/master#/
