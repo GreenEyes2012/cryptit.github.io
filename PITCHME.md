@@ -3,7 +3,6 @@
 ### Secure encryption online or offline from any device.
 
 ---
-
 ## CryptoJS Based App
 @fa[key fa-3x]
 
@@ -23,18 +22,13 @@
   <tr class="fragment">
     <td>SHA-3</td>
     <td>Triple DES</td>
-    <td>94</td>
+    <td>MD5</td>
     <td>RC4Drop</td>
   </tr>
 </table>
 <br>
 
 ---
-
----?video=http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4
-- Slide with video as background |
----
-
 ## Features
 
 - Mobile Ready |
@@ -43,7 +37,6 @@
 - Custom Logo, TOC, and Footnotes |
 
 ---
-
 @title[Code Block]
 
 <p><span class="slide-title">Code Block</span></p>
@@ -76,7 +69,6 @@ http.createServer(function (request, response) {
 @[19-20](Again, all of this without ever leaving your slideshow.)
 
 ---
-
 ## Template Help
 
 - [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
@@ -87,7 +79,6 @@ http.createServer(function (request, response) {
 - [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
 
 ---
-
 ### Questions?
 
 <br>
@@ -98,7 +89,7 @@ http.createServer(function (request, response) {
 
 @title[Download Now!]
 
-### <span class="white">Protect your data!</span>
+<span class="white">Protect your data!</span>
 
-### [Start using @fa[fa-download]](https://cryptit.github.io)
+@fa[fa-download]](https://cryptit.github.io)
 
