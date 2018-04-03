@@ -6,7 +6,7 @@ Secure encryption online or offline from any device.
 
 ## Tips!
 
-@fa[thumbs-up fa-5x](Sounds good to me!)
+@fa[thumbs-up](Sounds good to me!)
 
 <table>
   <tr>
