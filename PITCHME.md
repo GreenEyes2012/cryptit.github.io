@@ -1,15 +1,11 @@
 # Crypt It
 ## A Privacy Advocate Product
-
+@fa[lock]
 Secure encryption online or offline from any device.
 
 ---
 
 ## Tips!
-
-<i class="fas fa-lock"></i>
-
-@fa[lock]
 
 
 <table>
