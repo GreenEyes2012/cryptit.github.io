@@ -8,7 +8,7 @@ theme : neon
 theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 highlight : hybrid
-logo : ./assets/img/logo.png
+logo : /assets/img/logo.png
 transition : fade
 published : true
 footnote : "GitPitch [ CryptIt ] Presentation"
