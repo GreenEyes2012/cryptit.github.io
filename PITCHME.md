@@ -6,13 +6,14 @@
 
 ## Ciphers
 
+@fa[key](Stay safe!)
 
 <table>
   <tr>
+    <th>Keccak[c=2d]</th>
+    <th>SHA-256</th> 
+    <th>DES/Triple-DES</th>
     <th>AES</th>
-    <th>DES</th> 
-    <th>Triple-DES</th>
-    <th>Rabbit</th>
   </tr>
   <tr>
     <td>Jill</td>
