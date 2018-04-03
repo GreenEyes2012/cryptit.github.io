@@ -16,6 +16,15 @@ jobs:
 
     working_directory: ~/repo
 
+    deployment:
+      production:
+        branch: production
+        commands:
+          - ./deploy_prod.sh
+     staging:
+        branch: master
+        commands:
+          - ./deploy_staging.sh
     steps:
       - checkout
 
@@ -35,12 +44,4 @@ jobs:
         
       # run tests!
       - run: yarn test
-deployment:
-  production:
-    branch: production
-    commands:
-      - ./deploy_prod.sh
-  staging:
-    branch: master
-    commands:
-      - ./deploy_staging.sh
+
