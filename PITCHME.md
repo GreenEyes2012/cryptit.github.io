@@ -9,28 +9,28 @@
 
 <table>
   <tr>
-    <th>Keccak[c=2d]</th>
-    <th>SHA-256</th> 
-    <th>DES/Triple-DES</th>
+    <th>Keccak</th>
+    <th>SHA-1</th> 
     <th>AES</th>
+    <th>Rabbit</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-    <td>stream cipher</td>
+    <td>SHA-256</td>
+    <td>DES</td>
+    <td>PBKDF2</td>
+    <td>RC4</td>
   </tr>
   <tr class="fragment">
-    <td>Eve</td>
-    <td>Jackson</td>
+    <td>SHA-512</td>
+    <td>Triple DES</td>
     <td>94</td>
-    <td>ddd</td>
+    <td>RC4Drop</td>
   </tr>
   <tr class="fragment">
-    <td>John</td>
-    <td>Doe</td>
+    <td>SHA-3</td>
+    <td>MD5</td>
     <td>80</td>
-    <td>ffe</td>
+    <td>RIPEMD-160</td>
   </tr>
 </table>
 <br>
