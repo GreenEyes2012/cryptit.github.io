@@ -9,7 +9,7 @@ Secure encryption online or offline from any device.
 
 <i class="fas fa-lock"></i>
 
-@fa[fa-lock]
+@fa[lock]
 
 
 <table>
