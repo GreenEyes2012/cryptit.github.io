@@ -15,17 +15,16 @@ jobs:
       # - image: circleci/mongo:3.4.4
 
     working_directory: ~/repo
+          
+    dependencies:
+      override:
+        - npm install
 
     deployment:
       production:
         branch: production
         commands:
           - ./deploy_prod.sh
-       release:
-          tag: /release-.*/
-          owner: cryptIt #owner is optional
-          commands:
-            - ./deploy_master.sh
 
     steps:
       - checkout
