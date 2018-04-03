@@ -1,6 +1,6 @@
 # Crypt-It
 @fa[lock fa-5x]
-## File Encryption/Decryption Made Easy
+### witty catchphrase/tagline
 
 Secure encryption online or offline from any device.
 ---
